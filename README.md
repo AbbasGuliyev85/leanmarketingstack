@@ -1,11 +1,7 @@
-# LeanMarketingStack: static affiliate blog
+# LeanMarketingStack
 
-- `content/`: articles (Markdown)
-- `pages/`: About, Disclosure, Privacy
-- `site.json`: site name, URL, contact
-- `affiliates.json`: affiliate link slugs, filled in after approval
-- `build.py`: zero-dependency builder that outputs to `dist/`
-- `DEPLOY.md`: free deploy steps
-- `applications.md`: draft affiliate applications (not submitted)
+Static site built with `python3 build.py` (no dependencies) into `dist/`. Every push to `main` rebuilds and deploys to GitHub Pages:
+https://abbasguliyev85.github.io/leanmarketingstack/
 
-Working name: **LeanMarketingStack**. Alternatives: ScrappyStack, SoloStackHQ, BudgetSEOKit, ToolTally, LeanToolLab. Check domain and trademark availability before you commit.
+## Adding affiliate links
+Fill in the URLs in `affiliates.json`, then commit and push. Filled slugs render as `rel="sponsored nofollow"` links; empty ones fall back to the vendor homepage in `homepages.json`.
