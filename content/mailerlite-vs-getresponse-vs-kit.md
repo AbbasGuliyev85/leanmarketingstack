@@ -144,6 +144,8 @@ Deliverability means your emails actually land in inboxes rather than spam. All 
 
 ## When none of these is the right fit
 
+If you also plan to sell a course or digital product, an all-in-one platform like **Systeme.io** ({{AFFILIATE:systeme-io}}) puts email, sales pages and checkout in one account. Its free plan lists unlimited email sends for up to 2,000 contacts but only one automation rule, according to its pricing page (checked October 22, 2026). Read our [Systeme.io free plan review](/systeme-io-free-plan-review/) for the details.
+
 If you run an online store, an ecommerce-focused email tool that connects deeply with your store platform may suit you better. And if you only want to send a few emails a year to friends or customers, a simple free plan from any of the three is plenty, so don't overbuy.
 
 ## Final verdict

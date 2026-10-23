@@ -20,7 +20,7 @@ This guide lays out a **lean, honest tool stack**, free wherever possible. For e
 | Email list | MailerLite or Kit (check current free-plan terms) | Paid tier as the list grows |
 | Images | Your own screenshots, Canva free | none needed early |
 | Writing / editing | Google Docs, a free grammar checker | none needed early |
-| Funnels / courses (later) | Systeme.io (check for a current free plan) | Paid tier if you sell products |
+| Funnels / courses (later) | Systeme.io free plan (no card needed) | Paid tier if you sell products |
 
 ## Step 1: Choose a narrow niche angle
 
@@ -86,7 +86,7 @@ You don't need special writing software. Google Docs (or any editor) plus a free
 
 ## Step 8 (later): Funnels, courses and digital products
 
-Once you have an audience, you might sell a small digital product or course. An all-in-one platform like **Systeme.io** ({{AFFILIATE:systeme-io}}) bundles funnels, email and courses, and has offered a free plan (check current limits on its site). Don't set this up in month one. Come back to it when readers start asking you for more.
+Once you have an audience, you might sell a small digital product or course. An all-in-one platform like **Systeme.io** ({{AFFILIATE:systeme-io}}) bundles funnels, email and courses, and has a free plan that, according to its pricing page (checked October 22, 2026), never expires and covers up to 2,000 contacts, 3 funnels and 1 course. See our [Systeme.io free plan review](/systeme-io-free-plan-review/). Don't set this up in month one. Come back to it when readers start asking you for more.
 
 ## What this stack costs
 
