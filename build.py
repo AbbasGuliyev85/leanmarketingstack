@@ -82,7 +82,7 @@ def layout(title, desc, canon, body, article=None):
     if article:
         ld = '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": title, "description": desc, "datePublished": article, "dateModified": article, "author": {"@type": "Organization", "name": SITE["author"]}, "mainEntityOfPage": canon}) + "</script>"
     n = html.escape(SITE["name"])
-    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="google-site-verification" content="7ZpVK0bY3MuWP3T_WsGl4_Fjy3_ebfGamtP8E8E6pQg"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{t}</title><meta name="description" content="{d}"><link rel="canonical" href="{canon}">
 <meta property="og:type" content="{'article' if article else 'website'}"><meta property="og:title" content="{t}"><meta property="og:description" content="{d}"><meta property="og:url" content="{canon}"><meta property="og:site_name" content="{n}">
 <meta name="twitter:card" content="summary"><meta name="robots" content="index,follow"><link rel="stylesheet" href="/style.css">{ld}</head>
