@@ -149,6 +149,6 @@ Systeme.io's pricing page advertises "free migration". Check what that covers be
 
 If cost is your main concern, and for most beginners it should be, **Systeme.io wins the yearly math clearly**. It's $0 under 2,000 contacts, $204 a year up to 5,000 and $564 a year up to 10,000, against roughly $970 a year or more for ClickFunnels' entry plan. ClickFunnels may suit you if you'll actually use its team features, training and extras, but test that during the trial rather than paying for it up front.
 
-New to Systeme.io? Read our [Systeme.io free plan review](/systeme-io-free-plan-review/) first, or [start on the free plan]({{AFFILIATE:systeme-io}}).
+New to Systeme.io? Read our [Systeme.io free plan review](/systeme-io-free-plan-review/) first, or [start on the free plan]({{AFFILIATE:systeme-io}}). Comparing course platforms too? See [Kajabi vs Systeme.io for a first online course](/kajabi-vs-systeme-io-first-course-cost/).
 
 *Prices and limits were checked on the official Systeme.io and ClickFunnels pricing pages on October 22, 2026. Always confirm current details on each vendor's own site before you buy.*

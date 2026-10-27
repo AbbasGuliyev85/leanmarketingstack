@@ -95,7 +95,7 @@ The main pitch for an all-in-one tool is that it replaces several subscriptions.
 
 The basic point still holds for a beginner. If you need **a landing page, an email list, a checkout and somewhere to host a course**, a free plan that covers all four is a lot simpler than four separate accounts and the integrations between them.
 
-For a detailed, dollar-by-dollar comparison with the best-known competitor, read our [ClickFunnels vs Systeme.io yearly cost breakdown](/clickfunnels-vs-systeme-io-yearly-cost/).
+For a detailed, dollar-by-dollar comparison with the best-known competitor, read our [ClickFunnels vs Systeme.io yearly cost breakdown](/clickfunnels-vs-systeme-io-yearly-cost/). If you're choosing a platform for a first online course, see [Kajabi vs Systeme.io: what your first course really costs](/kajabi-vs-systeme-io-first-course-cost/).
 
 ## What we can't tell you (yet)
 
