@@ -129,7 +129,7 @@ When you outgrow Free, the paid steps are small: $17, then $47, then $97 a month
 - You want a branded mobile app or a larger team account.
 - You'd rather pay more for an established, polished platform and can use the 30-day money-back guarantee to test it.
 
-There's no shame in starting cheap. Many creators start on a low-cost tool, prove that people will buy, and then decide whether an upgrade is worth it. If you later want to compare Systeme.io with another big-name funnel builder, our [ClickFunnels vs Systeme.io yearly cost breakdown](/clickfunnels-vs-systeme-io-yearly-cost/) runs the same kind of math.
+There's no shame in starting cheap. Many creators start on a low-cost tool, prove that people will buy, and then decide whether an upgrade is worth it. If you later want to compare Systeme.io with another big-name funnel builder, our [ClickFunnels vs Systeme.io yearly cost breakdown](/clickfunnels-vs-systeme-io-yearly-cost/) runs the same kind of math, and our [Podia vs Systeme.io cost comparison](/podia-vs-systeme-io-cost/) covers a mid-priced course platform.
 
 ## A low-risk way to decide
 
