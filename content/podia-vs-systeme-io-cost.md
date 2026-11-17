@@ -141,7 +141,7 @@ The free plan has real limits, though: **1 automation rule, 1 email campaign, 3 
 - You prefer a simple storefront over sales funnels.
 - Your sales are high enough that $84 to $99 a month for Shaker is a small share of revenue.
 
-If you're weighing other course platforms too, our [Kajabi vs Systeme.io first course cost breakdown](/kajabi-vs-systeme-io-first-course-cost/), [Teachable vs Systeme.io cost comparison](/teachable-vs-systeme-io-cost/) and [ClickFunnels vs Systeme.io yearly cost comparison](/clickfunnels-vs-systeme-io-yearly-cost/) run the same kind of math.
+If you're weighing other course platforms too, our [Kajabi vs Systeme.io first course cost breakdown](/kajabi-vs-systeme-io-first-course-cost/), [Teachable vs Systeme.io cost comparison](/teachable-vs-systeme-io-cost/), [Thinkific vs Systeme.io cost comparison](/thinkific-vs-systeme-io-cost/) and [ClickFunnels vs Systeme.io yearly cost comparison](/clickfunnels-vs-systeme-io-yearly-cost/) run the same kind of math.
 
 ## A low-risk way to decide
 

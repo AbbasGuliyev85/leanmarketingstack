@@ -130,7 +130,7 @@ The free plan has limits, though. Its FAQ lists **1 automation rule, 1 email cam
 - You plan to sell several courses, coaching offers or downloads, and want memberships and bundles that don't count toward your product limit.
 - Your sales are high enough that Builder's yearly price is a small share of revenue.
 
-If you're comparing other course platforms too, our [Kajabi vs Systeme.io first course cost breakdown](/kajabi-vs-systeme-io-first-course-cost/), [Podia vs Systeme.io cost comparison](/podia-vs-systeme-io-cost/) [Thinkific vs Systeme.io cost comparison](/thinkific-vs-systeme-io-cost/) and [ClickFunnels vs Systeme.io yearly cost comparison](/clickfunnels-vs-systeme-io-yearly-cost/) run the same kind of math.
+If you're comparing other course platforms too, our [Kajabi vs Systeme.io first course cost breakdown](/kajabi-vs-systeme-io-first-course-cost/), [Podia vs Systeme.io cost comparison](/podia-vs-systeme-io-cost/), [Thinkific vs Systeme.io cost comparison](/thinkific-vs-systeme-io-cost/) and [ClickFunnels vs Systeme.io yearly cost comparison](/clickfunnels-vs-systeme-io-yearly-cost/) run the same kind of math.
 
 ## A low-risk way to decide
 
